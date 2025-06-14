@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+.env
+
+# Logs
+logs
+*.log
+
+# IDE files
+.vscode/
+.DS_Store
+
+# Testing coverage
+coverage/
